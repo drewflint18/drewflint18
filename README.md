@@ -2,7 +2,7 @@
 - 👀 I’m interested in Modeling and Simulation, Computational Mathematics and Statistics, Artificial Intelligence, Human-AI Teaming, and Multidisciplinary Optimization for Aerospace Applications.
 - 🌱 I’m currently studying Aerospace Engineering at the Georgia Institute of Technology in Atlanta, GA. 
 - 💞️ I’m looking to collaborate on projects for Human-In-The-Loop Command and Control
-- 📫 How to reach me: drewflint18@gmail.com
+- 📫 How to reach me: aflint8@gatech.edu
 - 😄 Pronouns: he/him
 
 <!---
